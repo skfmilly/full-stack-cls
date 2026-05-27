@@ -10,3 +10,4 @@ const orders = [
 ];
 const allDelivered = orders.every(order => order.status === "delivered");
 console.log(allDelivered);
+//
